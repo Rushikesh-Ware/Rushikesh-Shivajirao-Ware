@@ -1,0 +1,11 @@
+project:
+  type: website
+   
+website: 
+  title: "STAT 515-Quarto"
+  navbar: 
+    left: 
+      - 1.qmd
+      - 22.qmd
+      - 1st.qmd
+      
