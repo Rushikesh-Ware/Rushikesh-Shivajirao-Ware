@@ -1,5 +1,0 @@
-"0","fig1 = plot_ly(top_emitters, x = ~Total, y = ~reorder(Country, Total), type = 'bar', orientation = 'h') %>%"
-"0","  layout(title = ""Top 20 Countries by Total Emissions in 2021"","
-"0","         xaxis = list(title = ""Total Emissions (MtCO2)""),"
-"0","         yaxis = list(title = ""Country""))"
-"0","fig1"

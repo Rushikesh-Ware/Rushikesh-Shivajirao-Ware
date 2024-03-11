@@ -1,6 +1,7 @@
 ---
-title: "Mid Project"
+title: "Mid_Project"
 editor: visual
+format: html
 ---
 
 GROUP 2

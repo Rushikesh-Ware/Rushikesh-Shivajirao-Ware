@@ -1,6 +1,7 @@
 ---
-title: "Mid project code"
+title: "Mid_project_code"
 editor: visual
+format: html
 ---
 
 ```{r}

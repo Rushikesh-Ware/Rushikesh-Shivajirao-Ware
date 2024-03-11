@@ -1,0 +1,17 @@
+project: 
+  type: website
+  output-dir: docs
+  
+website: 
+  title: Rushikesh Shivajirao Ware
+  navbar:
+   left:
+      - href: index.qmd
+      - Mid_project.qmd
+      - Mid_project_code.qmd
+      
+format:
+  html: 
+     theme: cosco
+     css: styless.css
+     toc: true
