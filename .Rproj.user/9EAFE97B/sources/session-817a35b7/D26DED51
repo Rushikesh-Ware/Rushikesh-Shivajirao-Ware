@@ -1,9 +1,9 @@
 {
     "id": "D26DED51",
-    "path": "C:/Users/rushi/OneDrive/Desktop/GMU/Rushikesh-Shivajirao-Ware/blank.qmd",
-    "project_path": "blank.qmd",
+    "path": "C:/Users/rushi/OneDrive/Desktop/GMU/Rushikesh-Shivajirao-Ware/Mid_Project.qmd",
+    "project_path": "Mid_Project.qmd",
     "type": "quarto_markdown",
-    "hash": "3179132946",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1710182519458.0,
@@ -16,7 +16,7 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "190:0",
+        "rmdVisualModeLocation": "130:0",
         "cursorPosition": "0,0",
         "scrollLine": "0"
     },
@@ -25,7 +25,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710183190090,
+    "last_content_update": 1710183190,
     "read_only": false,
     "read_only_alternatives": []
 }

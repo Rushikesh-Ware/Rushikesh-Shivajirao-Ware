@@ -1,0 +1,7 @@
+"0","Co2_2021 = Co2_emission %>%"
+"0","  filter(Year == 2021) %>%"
+"0","  replace(is.na(.), 0) "
+"0",""
+"0","top_emitters <- Co2_2021 %>% "
+"0","  arrange(desc(Total)) %>%"
+"0","  head(20)"

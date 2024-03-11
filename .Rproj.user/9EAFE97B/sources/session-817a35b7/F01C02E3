@@ -1,7 +1,7 @@
 {
     "id": "F01C02E3",
-    "path": "C:/Users/rushi/OneDrive/Desktop/GMU/Rushikesh-Shivajirao-Ware/blank2.qmd",
-    "project_path": "blank2.qmd",
+    "path": "C:/Users/rushi/OneDrive/Desktop/GMU/Rushikesh-Shivajirao-Ware/Mid_project_code.qmd",
+    "project_path": "Mid_project_code.qmd",
     "type": "quarto_markdown",
     "hash": "2303197091",
     "contents": "",
@@ -16,8 +16,8 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2095:1783.272705078125",
-        "cursorPosition": "59,0",
+        "rmdVisualModeLocation": "14:0",
+        "cursorPosition": "0,0",
         "scrollLine": "0"
     },
     "folds": "",
@@ -25,7 +25,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710183186045,
+    "last_content_update": 1710183185,
     "read_only": false,
     "read_only_alternatives": []
 }
