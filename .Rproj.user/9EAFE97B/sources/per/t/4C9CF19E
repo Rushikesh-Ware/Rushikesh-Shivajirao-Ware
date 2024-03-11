@@ -1,29 +1,33 @@
 {
-    "id": "C754617E",
+    "id": "4C9CF19E",
     "path": "C:/Users/rushi/OneDrive/Desktop/GMU/Rushikesh-Shivajirao-Ware/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
     "hash": "1221698885",
     "contents": "",
     "dirty": false,
-    "created": 1710185073660.0,
+    "created": 1708372088598.0,
     "source_on_save": false,
-    "relative_order": 4,
+    "relative_order": 2,
     "properties": {
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
+        "cursorPosition": "0,0",
+        "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "57:0",
+        "docOutlineSize": "5"
     },
     "folds": "",
     "lastKnownWriteTime": 1708372915,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1708372915,
+    "last_content_update": 1708372915017,
     "read_only": false,
     "read_only_alternatives": []
 }
